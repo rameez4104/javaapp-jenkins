@@ -63,6 +63,7 @@
     <p>In this app, we will deploy the project manually.</p>
     <p>Testing</p>
     <a href="about.jsp">Go to About Page</a>
+    <a href="services.jsp">Services Page</a>
 </div>
 
 </body>
