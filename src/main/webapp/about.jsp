@@ -66,7 +66,7 @@
     <p>
         This is the About Page of our Java Web Application.<br>
         Here, you can learn more about the project and its purpose.<br>
-        We are manually deploying this web app using Tomcat Server.
+        We are deploying this web app using Tomcat Server.
     </p>
 
     <a href="index.jsp">⬅ Back to Home</a>
