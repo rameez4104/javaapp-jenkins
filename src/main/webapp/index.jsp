@@ -61,6 +61,7 @@
 <div class="container">
     <h2>Welcome to My Java Web App</h2>
     <p>In this app, we will deploy the project manually.</p>
+    <p> See The Deployment </p>
     <a href="about.jsp">Go to About Page</a>
     <a href="services.jsp">Services Page</a>
 </div>
